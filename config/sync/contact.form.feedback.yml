@@ -1,0 +1,14 @@
+uuid: 9ae2e30d-01d4-49eb-a6f3-bced22b5c4bb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - viruz2k@gmx.de
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
